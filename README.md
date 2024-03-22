@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AlexGTroncoso/AlexGTroncoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,19 +15,19 @@ Here are some ideas to get you started:
 -->
 
 
-#  :octocat: ¡Hola! 👋
+##  :octocat: ¡Hola! 👋
 
 
 
 ¡Bienvenido a mi perfil de GitHub! Soy Alexander González Troncoso, un apasionado de la programación, la investigación y la astronomía.
 
-## Sobre mí
+### Sobre mí
 
 - 💻 Desarrollador de software
 - 🎓 Estudiante de Astronomía | Universidad de Antioquia
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
 
-## Tecnologías que me interesan
+### Tecnologías que me interesan
 
 
 [![Python](https://img.shields.io/badge/-Python-%23FFFFFF?style=flat&logo=python)]()
@@ -41,12 +40,12 @@ Here are some ideas to get you started:
 
 
 
-## Proyectos destacados
+### Proyectos destacados
 
 - 📂 [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
 - 📂 [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
 
-## 
+### Lenguajes Utilizados
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGTroncoso&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
 
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
 
 </p>
 
-## Contacto
+### Contacto
 
 ¡No dudes en contactarme!
 
