@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 
-¡Bienvenido a mi perfil de GitHub! Soy Alexander González Troncoso, un apasionado de la programación, la investigación y la astronomía.
+¡Bienvenido a mi perfil de GitHub! Soy Alexander González Troncoso, un apasionado de la Programación, la Investigación, la Astronomía y la ciencia en general.
 
 ### Sobre mí
 
-- 💻 Desarrollador de software
+- 💻 Programador
 - 🎓 Estudiante de Astronomía | Universidad de Antioquia
 - 🌱 Siempre aprendiendo y mejorando mis habilidades
 
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 
 [![Python](https://img.shields.io/badge/-Python-%23FFFFFF?style=flat&logo=python)]()
-[![JavaScrip](https://img.shields.io/badge/-JavaScrip-%23FFFFFF?style=flat&logo=javascript)]()
 [![C](https://img.shields.io/badge/-C-%23FFFFFF?style=flat&logo=c)]()
 [![Jupyter](https://img.shields.io/badge/-Jupyter-%23FFFFFF?style=flat&logo=Jupyter)]()
 
+[![JavaScrip](https://img.shields.io/badge/-JavaScrip-%23FFFFFF?style=flat&logo=javascript)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-%23FFFFFF?style=flat&logo=HTML5)]()
 [![CSS](https://img.shields.io/badge/-CSS3-%23FFFFFF?style=flat&logo=CSS3&logoColor=%231572B6)]()
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Proyectos destacados
 
-- 📂 [Proyecto 1](enlace-al-proyecto-1): En este proyecto encontraras mis gustos personales.
+- 📂 [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
 - 📂 [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
 
 ### Lenguajes Utilizados
