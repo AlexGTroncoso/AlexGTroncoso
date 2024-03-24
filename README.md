@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Proyectos destacados
 
-- 📂 [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
+- 📂 [Proyecto 1](enlace-al-proyecto-1): En este proyecto encontraras mis gustos personales.
 - 📂 [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
 
 ### Lenguajes Utilizados
