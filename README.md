@@ -1,6 +1,6 @@
 <h2 align="center">
-  <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/191785c6-303c-49b3-8bd7-8563c2b55ed5" />
-  ¡Hola! Bienvenido a mi perfil de GitHub
+  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/53ec1c6c-e266-4c5e-bee7-e41cf99bae2f" />
+ ¡Hola! Bienvenido a mi perfil de GitHub
 </h2>
 
 Soy **Alexander González Troncoso**, astrónomo de la Universidad de Antioquia y programador, con interés en la **Astrofísica Estelar** y la **Ciencia de Datos aplicada a la investigación astronómica**.  
@@ -8,18 +8,18 @@ Mi trabajo se centra en el análisis de **velocidades radiales**, caracterizaci�
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/747/747376.png" width="22" style="vertical-align: middle;"/> Sobre mí
-- <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="18" style="vertical-align: middle;"/> Astrónomo | Universidad de Antioquia  
-- <img src="https://cdn-icons-png.flaticon.com/512/2920/2920224.png" width="18" style="vertical-align: middle;"/> Áreas de interés: astrofísica estelar, exoplanetas, cúmulos globulares, metalicidades y poblaciones estelares.  
-- <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="18" style="vertical-align: middle;"/> Experiencia en programación científica, análisis espectroscópico y fotométrico.  
-- <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="18" style="vertical-align: middle;"/> Interés en análisis de datos y visualización con herramientas como **Power BI**.  
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d734b729-20a7-4184-9a23-808584731beb" /> Sobre mí
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a236ddb-4475-41d4-99db-f31de6f1838e" /> Astrónomo | Universidad de Antioquia  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f12a93b4-2e94-456d-bc13-ce08b47bf333" /> Áreas de interés: astrofísica estelar, exoplanetas, cúmulos globulares, metalicidades y poblaciones estelares.  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f583d483-3c57-4637-823c-f07be5288a85" /> Experiencia en programación científica, análisis espectroscópico y fotométrico.  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/635f9a76-0176-4469-bb39-aefa09c58d23" /> Interés en análisis de datos y visualización con herramientas como **Power BI**.  
 - <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="18" style="vertical-align: middle;"/> Nacionalidad: Colombiana  
-- <img src="https://cdn-icons-png.flaticon.com/512/2764/2764742.png" width="18" style="vertical-align: middle;"/> Apasionado por el **voleibol** y el **atletismo**.  
-- <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" width="18" style="vertical-align: middle;"/> Disfruto de la lectura como forma de aprendizaje y entretenimiento.  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/852fda9e-1436-4d2d-be97-91fb0a11706d" /> Apasionado por el **voleibol** y el **atletismo**.  
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/50f739cc-f157-4372-a3f8-e7964d23c2b5" /> Disfruto de la lectura como forma de aprendizaje y entretenimiento.  
 
 ---
 
-### 🛠 Tecnologías y herramientas
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/241206bd-0825-40d5-aab2-d1ce3980fe57" /> Tecnologías y herramientas
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)]()
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)]()
@@ -30,7 +30,7 @@ Mi trabajo se centra en el análisis de **velocidades radiales**, caracterizaci�
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2521/2521826.png" width="22" style="vertical-align: middle;"/> Proyectos destacados
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a7090be0-bdc6-40f6-af78-3c078a39bd43" /> Proyectos destacados
 - 📂 [**Trabajo de grado**](https://alexgtroncoso.github.io/):  
   *"Analysis of Possible Companions in Chemically Peculiar Stars Based on Radial Velocity Variations"* — Investigación sobre estrellas químicamente peculiares, usando datos espectroscópicos y herramientas computacionales para identificar sistemas binarios y caracterizar poblaciones estelares.  
   - Presentado en congresos nacionales e internacionales.  
@@ -38,7 +38,7 @@ Mi trabajo se centra en el análisis de **velocidades radiales**, caracterizaci�
 
 ---
 
-### 📊 Lenguajes más usados
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/32a1cfd9-c9ac-423c-8545-3cd95b1470cc" /> Lenguajes más usados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGTroncoso&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -49,7 +49,7 @@ Mi trabajo se centra en el análisis de **velocidades radiales**, caracterizaci�
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="22" style="vertical-align: middle;"/> Contacto
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6131f514-767f-4e08-b7dd-560ebcf29d7d" /> Contacto
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexander.gonzalezt@udea.edu.co)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-troncoso-5b6253281/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=%23FFFFFF)](https://www.instagram.com/alexandert_07/)
