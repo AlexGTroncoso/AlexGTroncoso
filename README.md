@@ -48,9 +48,9 @@ Mi trabajo se centra en el análisis de **velocidades radiales**, caracterizaci�
 
 ### 📫 Contacto
 
-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-troncoso-5b6253281/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=%23FFFFFF)](https://www.instagram.com/alexandert_07/)
-- [![X](https://img.shields.io/badge/-Twitter-%23000000?style=flat&logo=x&logoColor=%23FFFFFF)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexander-gonz%C3%A1lez-troncoso-5b6253281/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=%23FFFFFF)](https://www.instagram.com/alexandert_07/)
+[![X](https://img.shields.io/badge/-Twitter-%23000000?style=flat&logo=x&logoColor=%23FFFFFF)]()
 
 ---
 
