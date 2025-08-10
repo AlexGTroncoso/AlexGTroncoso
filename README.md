@@ -1,16 +1,15 @@
 ## :telescope: ¡Hola! 👋 Bienvenido a mi perfil de GitHub
 
-Soy **Alexander González Troncoso**, investigador en formación y programador apasionado por la **Astrofísica Estelar**, la **Ciencia de Datos** y la **programación aplicada a la investigación científica**.  
-Actualmente soy estudiante de **Astronomía** en la *Universidad de Antioquia*, con experiencia en análisis de velocidades radiales, modelado de sistemas binarios y el uso de herramientas computacionales para el estudio de poblaciones estelares.
+Soy **Alexander González Troncoso**, astrónomo graduado y programador, con interés en la **Astrofísica Estelar** y la **Ciencia de Datos aplicada a la investigación astronómica**.  
+Mi trabajo se centra en el análisis de **velocidades radiales**, caracterización de **sistemas binarios** y estudio de **poblaciones estelares** en la Vía Láctea.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de Astronomía | Universidad de Antioquia  
-- 🔭 Intereses: astrofísica estelar, poblaciones estelares, metalicidad, exoplanetas y cúmulos globulares.  
-- 💻 Experiencia en programación científica y análisis de datos astronómicos.  
-- 🌱 Siempre aprendiendo nuevas técnicas de análisis y herramientas de desarrollo.  
+- 🎓 Astrónomo | Universidad de Antioquia  
+- 🔭 Áreas de interés: astrofísica estelar, exoplanetas, cúmulos globulares, metalicidades y poblaciones estelares.  
+- 💻 Experiencia en programación científica, análisis espectroscópico y fotométrico.  
 - 📍 Nacionalidad: Colombiana  
 
 ---
@@ -32,8 +31,6 @@ Actualmente soy estudiante de **Astronomía** en la *Universidad de Antioquia*, 
   *"Analysis of Possible Companions in Chemically Peculiar Stars Based on Radial Velocity Variations"* — Investigación sobre estrellas químicamente peculiares, usando datos espectroscópicos y herramientas computacionales para identificar sistemas binarios y caracterizar poblaciones estelares.  
   - Presentado en congresos nacionales e internacionales.  
   - Publicado en el [Repositorio Institucional UdeA](https://hdl.handle.net/10495/45848).
-
-- 📂 [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
 
 ---
 
